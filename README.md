@@ -1,6 +1,5 @@
 Date created: 18/05/2024, 2154hrs
 
-========My Block List==========#
 This Block list has a small list of domains that i have listed to help me in Blocking Unnecesary traffic through my 
 PfSense Firewall.
 The List Includes the following Categories:
